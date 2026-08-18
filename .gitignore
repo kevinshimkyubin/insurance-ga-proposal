@@ -1,0 +1,9 @@
+1막/
+2막/
+3막/
+_공용소스/
+*_files/
+*.html
+!index.html
+!proposal.html
+.DS_Store
